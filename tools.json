@@ -633,5 +633,12 @@
     "repository": "https://github.com/reidwmulkey/noncis",
     "description": "Synchronizes nonces across node instances.",
     "authors": []
+  },
+  {
+    "name": "Radish",
+    "language": "Golang",
+    "repository": "https://github.com/sad0vnikov/radish",
+    "description": "Fancy and fast web interface for managing Redis database.",
+    "authors": []
   }
 ]
